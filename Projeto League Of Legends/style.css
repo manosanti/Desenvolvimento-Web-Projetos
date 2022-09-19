@@ -39,9 +39,3 @@
 ._label{
     color: var(--color-grey);
 }
-
-.col-4{
-    display: inline-block;
-    width: 120px;
-    margin-right: 10px;
-}
