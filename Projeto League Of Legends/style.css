@@ -39,3 +39,25 @@
 ._label{
     color: var(--color-grey);
 }
+
+.form-check{
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+._check{
+    background-color: var(--color-grey);
+}
+
+._btn{
+    border-radius: 30px;
+    color: var(--color-grey);
+    background-color: #0bc4e2;
+}
+
+._text-link{
+    color: var(--color-grey-dark);
+    text-decoration: none;
+    font-weight: 600;
+}
