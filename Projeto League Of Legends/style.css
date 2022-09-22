@@ -51,13 +51,26 @@
 }
 
 ._btn{
-    border-radius: 30px;
+    border-radius: 2rem;
     color: var(--color-grey);
     background-color: #0bc4e2;
+}
+
+._btn:hover{
+    background-color: #0e98ad;
+    color: white;
 }
 
 ._text-link{
     color: var(--color-grey-dark);
     text-decoration: none;
     font-weight: 600;
+}
+
+._text-link:hover{
+    color: black;
+}
+
+.login-text{
+    font-size: 30px;
 }
