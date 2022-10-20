@@ -28,7 +28,7 @@ body *{
 }
 
 .left-login > h1{
-    color: #77ffc0;
+    color: #00ff88;
     font-size: 3vw;
 }
 
@@ -107,6 +107,20 @@ body *{
     background: #00ff88;
     cursor: pointer;
     box-shadow: 0px 10px 40px -12px #00ff8052;
+}
+
+.sign-in{
+    color: #00ff88;
+    font-weight: 600;
+    text-transform: none;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.user-creation{
+    display: flex;
+    align-items: center;
+    color: #f0ffffde;
 }
 
 @media only screen and (max-width: 950px){
